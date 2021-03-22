@@ -11,5 +11,5 @@ Former QA tester background gives me a good perspective of seeing both sides of 
 
 - 📫 How to reach me: [Hit me up on Linkedin.](https://www.linkedin.com/in/aleksandar-m-trifunovic/)
 
-- ⚡ Fun fact: Huge nerd! LOTR, D&D, Star wars...you name it. 
+- ⚡ Fun fact: I'm a huge nerd! LOTR, D&D, Star wars...you name it. 
 ___________________________________________________________________________________________________________________________________________________________________________________
