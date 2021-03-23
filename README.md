@@ -5,6 +5,8 @@
 Former QA tester background gives me a good perspective of seeing both sides of the coding coin. So from chasing bugs and trying to crash apps I went into fixing bugs and developing apps 🐛🔨<h3/>
 
 
+
+
 - 👓 Looking to join a great team of people on some cool projects.
 
 - :computer: I’m currently learning more about React.js.
