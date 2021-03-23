@@ -24,7 +24,7 @@ Former QA tester background gives me a good perspective of seeing both sides of 
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-Trifunovic&layout=compact)](https://github.com/Aleks-Trifunovic/github-readme-stats)
-</p>
+
 ___________________________________________________________________________________________________________________________________________________________________________________
