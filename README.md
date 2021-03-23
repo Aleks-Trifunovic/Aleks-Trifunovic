@@ -1,8 +1,8 @@
 <h1>Hello there! 👋 <h1/> 
 
 
-<h4>I'm a fresh graduate from Ironhack's Fullstack Web development bootcamp 👨‍🎓 Looking to dive deep in the coding waters and make the most of it!
-Former QA tester background gives me a good perspective of seeing both sides of the coding coin. So from chasing bugs and trying to crash apps I went into fixing bugs and developing apps 🐛🔨<h4/>
+<h3>I'm a fresh graduate from Ironhack's Fullstack Web development bootcamp 👨‍🎓 Looking to dive deep in the coding waters and make the most of it!
+Former QA tester background gives me a good perspective of seeing both sides of the coding coin. So from chasing bugs and trying to crash apps I went into fixing bugs and developing apps 🐛🔨<h3/>
 
 
 - 👓 Looking to join a great team of people on some cool projects.
