@@ -1,6 +1,6 @@
 <h1>Hello there! 👋 </h1> 
 
-- :computer: I’m currently learning more about React.js, Playwright and Typescript.
+- :computer: I’m currently learning more about Security Onion and Linux.
 
 - 📫 How to reach me: [Hit me up on Linkedin.](https://www.linkedin.com/in/aleksandar-m-trifunovic/)
 
