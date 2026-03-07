@@ -23,12 +23,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 
-
-
-
-
-___________________________________________________________________________________________________________________________________________________________________________________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-Trifunovic&layout=compact)](https://github.com/Aleks-Trifunovic/github-readme-stats)
-
 ___________________________________________________________________________________________________________________________________________________________________________________
