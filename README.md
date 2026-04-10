@@ -21,4 +21,4 @@
 <a target="_blank" href="https://www.microsoft.com/en-us/security/business/microsoft-defender" style="display: inline-block;"><img src="https://img.icons8.com/color/48/microsoft-defender.png" alt="microsoft defender" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a></p>
 
-_ΩΩ_________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________
