@@ -8,7 +8,8 @@
 
 
 <h2>Some of the tools I use:</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<p>
+<a target="_blank" href="https://securityonionsolutions.com" style="display: inline-block;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS022PlYHKymvIMW3zZr9mSH60_f50PZ7gnrmttYzvnHQ&s" alt="security onion" width="42" height="42" /></a>
 <a target="_blank" href="https://www.elastic.co/elasticsearch" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="42" height="42" /></a>
 <a target="_blank" href="https://www.elastic.co/kibana" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="kibana" width="42" height="42" /></a>
 <a target="_blank" href="https://www.kali.org" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="42" height="42" /></a>
@@ -16,9 +17,8 @@
 <a target="_blank" href="https://suricata.io" style="display: inline-block;"><img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" width="42" height="42" /></a>
 <a target="_blank" href="https://zeek.org" style="display: inline-block;"><img src="https://zeek.org/wp-content/uploads/2020/04/zeek-logo-without-text.png" alt="zeek" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://securityonionsolutions.com" style="display: inline-block;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS022PlYHKymvIMW3zZr9mSH60_f50PZ7gnrmttYzvnHQ&s" alt="security onion" width="42" height="42" /></a>
 <a target="_blank" href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="KQL / Azure" width="42" height="42" /></a>
 <a target="_blank" href="https://www.microsoft.com/en-us/security/business/microsoft-defender" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1280px-Windows-defender.svg.png" alt="microsoft defender" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a></p>
+<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
 
 __________________________________________________________________________________________________________________________________________________________________________________
