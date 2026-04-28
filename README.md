@@ -1,6 +1,6 @@
 <h1>Hello there! </h1> 
 
-- :computer: I’m currently learning more about Security Onion and Linux.
+- :computer: I’m currently learning more about Security Onion, Threat Hunting with KQL in Microsoft Defender XDR and Linux.
 
 - 📫 How to reach me: [Hit me up on Linkedin.](https://www.linkedin.com/in/aleksandar-m-trifunovic/)
 
